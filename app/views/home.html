@@ -1,0 +1,57 @@
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li ng-click="resetCategory()" ng-class="{active:isSelected(0)}"><a href="#">All</a></li>
+        <li ng-repeat="category in categories" ng-click="selectCategory(category.id)" ng-class="{active:isSelected(category.id)}"><a href="#">{{category.name}}</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<div class="container">
+	<div class="row">
+		<div class="col-sm-8">
+			<ul class="media-list" ng-repeat="article in articles | filter : filters">
+				<li class="media">
+					<div class="media-left media-middle">
+						<a ui-sref="app.article({id: article.id})" ng-click="selectCategory(article.categoryID)">
+							<img class="media-object img-thumbnail" ng-src={{article.image}} alt={{article.title}}>
+						</a>
+					</div>
+					<div class="media-body">
+						<h4 class="media-heading">{{article.title}}</h4>
+						<a ui-sref="app.article({id: article.id})" ng-click="selectCategory(article.categoryID)">Read more</a>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<div class="col-sm-4">
+			<div class="list-of-all-articles-desc">
+				<h4 class="list-of-all-articles-head">All articles (descending):</h4>
+				<ul ng-repeat="article in articles | orderBy: '-title'">
+					<li class="media"><a ui-sref="app.article({id: article.id})" ng-click="selectCategory(article.categoryID)" class="list-group-item">{{article.title}}</a></li>
+				</ul>
+			</div>
+			<div class="list-of-all-articles-sorted-category">
+				<h4 class="list-of-all-articles-head">All articles (group by category):</h4>
+				<div ng-repeat="category in categories">
+					<h4 class="list-of-all-articles-head-category"><small>{{category.name}}:</small></h4>
+					<ul ng-repeat="article in articles | orderBy: 'categoryID'">
+						<li class="media" ng-show="article.categoryID == category.id"><a ui-sref="app.article({id: article.id})" class="list-group-item" ng-click="selectCategory(article.categoryID)">{{article.title}}</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+

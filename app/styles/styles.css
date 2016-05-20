@@ -1,0 +1,49 @@
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.media img {
+	height: 100px;
+}
+
+.article-image img {
+	width: 100%;
+}
+
+.article-body {
+	text-align: justify;
+	margin-bottom: 35px;
+}
+
+.article-category {
+	margin: 20px auto;
+	display: block;
+}
+
+.article-date {
+	margin: 20px auto;
+	display: block;
+}
+
+.list-of-all-articles-head {
+	position: relative;
+  display: block;
+  padding: 10px 40px;
+}
+
+.list-of-all-articles-head-category {
+	position: relative;
+  display: block;
+  padding: 0px 40px;
+}
+
+.list-of-all-articles-sorted-category {
+	margin-top: 20px;
+}
+

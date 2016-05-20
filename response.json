@@ -1,0 +1,86 @@
+{
+  "list-of-articles": [
+    {
+      "id": 0,
+      "title": "Twitter is hiring in Singapore for its first data science team outside the U.S.",
+      "image": "images/twitter.jpg",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac dapibus massa. Curabitur at pulvinar nisi. Duis aliquet condimentum lacus, nec molestie lacus luctus nec. Donec enim augue, mattis a enim quis, congue ornare arcu. Nullam nisl lectus, varius vel metus a, ultricies mattis elit. Vestibulum consequat eu libero vestibulum sodales. In et ligula ut neque semper elementum. Vestibulum tempor luctus neque tempus posuere. Vestibulum tincidunt volutpat arcu, in placerat nibh ornare eget. Sed tempus ultrices nisl, in egestas lorem luctus eu. Vivamus aliquam mauris quis augue rhoncus iaculis. Aenean in justo viverra, lacinia turpis eget, laoreet purus. Praesent velit lacus, facilisis at tincidunt non, imperdiet ut diam. Aenean nec nisl eros. Mauris suscipit facilisis ante, in blandit elit pellentesque vitae. Sed neque enim, fermentum sed lorem at, gravida auctor purus. Ut id ipsum efficitur enim pharetra volutpat. Maecenas auctor porttitor lorem, at porta neque bibendum ut. Suspendisse rhoncus risus nec pellentesque porta. Proin sagittis, orci sed tristique auctor, ligula enim pulvinar neque, nec finibus odio orci vel est. Cras semper est vel scelerisque ultrices. Phasellus imperdiet eros nec est egestas, ornare pulvinar odio mattis. Aenean pharetra felis quis metus iaculis tempus sit amet id augue. Fusce sed erat at tellus malesuada posuere in et nisi. Vivamus augue lacus, consectetur rhoncus arcu ut, varius pellentesque eros. Sed et efficitur nulla. Phasellus nec mi non tortor faucibus consequat.",
+      "datePublished": "2016-05-20T17:57:28.556094Z",
+      "categoryID": "2"
+    },
+    {
+      "id": 1,
+      "title": "How to navigate the dynamic digital marketing world",
+      "image": "images/dynamic-digital-world.jpg",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac dapibus massa. Curabitur at pulvinar nisi. Duis aliquet condimentum lacus, nec molestie lacus luctus nec. Donec enim augue, mattis a enim quis, congue ornare arcu. Nullam nisl lectus, varius vel metus a, ultricies mattis elit. Vestibulum consequat eu libero vestibulum sodales. In et ligula ut neque semper elementum. Vestibulum tempor luctus neque tempus posuere. Vestibulum tincidunt volutpat arcu, in placerat nibh ornare eget. Sed tempus ultrices nisl, in egestas lorem luctus eu. Vivamus aliquam mauris quis augue rhoncus iaculis. Aenean in justo viverra, lacinia turpis eget, laoreet purus. Praesent velit lacus, facilisis at tincidunt non, imperdiet ut diam. Aenean nec nisl eros. Mauris suscipit facilisis ante, in blandit elit pellentesque vitae. Sed neque enim, fermentum sed lorem at, gravida auctor purus. Ut id ipsum efficitur enim pharetra volutpat. Maecenas auctor porttitor lorem, at porta neque bibendum ut. Suspendisse rhoncus risus nec pellentesque porta. Proin sagittis, orci sed tristique auctor, ligula enim pulvinar neque, nec finibus odio orci vel est. Cras semper est vel scelerisque ultrices. Phasellus imperdiet eros nec est egestas, ornare pulvinar odio mattis. Aenean pharetra felis quis metus iaculis tempus sit amet id augue. Fusce sed erat at tellus malesuada posuere in et nisi. Vivamus augue lacus, consectetur rhoncus arcu ut, varius pellentesque eros. Sed et efficitur nulla. Phasellus nec mi non tortor faucibus consequat.",
+      "datePublished": "2016-05-20T17:57:28.556094Z",
+      "categoryID": "2"
+    },
+    {
+      "id": 2,
+      "title": "Chrome is about to get better at payments on mobile",
+      "image": "images/Chrome.jpg",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac dapibus massa. Curabitur at pulvinar nisi. Duis aliquet condimentum lacus, nec molestie lacus luctus nec. Donec enim augue, mattis a enim quis, congue ornare arcu. Nullam nisl lectus, varius vel metus a, ultricies mattis elit. Vestibulum consequat eu libero vestibulum sodales. In et ligula ut neque semper elementum. Vestibulum tempor luctus neque tempus posuere. Vestibulum tincidunt volutpat arcu, in placerat nibh ornare eget. Sed tempus ultrices nisl, in egestas lorem luctus eu. Vivamus aliquam mauris quis augue rhoncus iaculis. Aenean in justo viverra, lacinia turpis eget, laoreet purus. Praesent velit lacus, facilisis at tincidunt non, imperdiet ut diam. Aenean nec nisl eros. Mauris suscipit facilisis ante, in blandit elit pellentesque vitae. Sed neque enim, fermentum sed lorem at, gravida auctor purus. Ut id ipsum efficitur enim pharetra volutpat. Maecenas auctor porttitor lorem, at porta neque bibendum ut. Suspendisse rhoncus risus nec pellentesque porta. Proin sagittis, orci sed tristique auctor, ligula enim pulvinar neque, nec finibus odio orci vel est. Cras semper est vel scelerisque ultrices. Phasellus imperdiet eros nec est egestas, ornare pulvinar odio mattis. Aenean pharetra felis quis metus iaculis tempus sit amet id augue. Fusce sed erat at tellus malesuada posuere in et nisi. Vivamus augue lacus, consectetur rhoncus arcu ut, varius pellentesque eros. Sed et efficitur nulla. Phasellus nec mi non tortor faucibus consequat.",
+      "datePublished": "2016-05-20T17:57:28.556094Z",
+      "categoryID": "1"
+    },
+    {
+      "id": 3,
+      "title": "GM's car sharing brand Maven expands to Boston, Chicago, D.C.",
+      "image": "images/GMMaven.jpg",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac dapibus massa. Curabitur at pulvinar nisi. Duis aliquet condimentum lacus, nec molestie lacus luctus nec. Donec enim augue, mattis a enim quis, congue ornare arcu. Nullam nisl lectus, varius vel metus a, ultricies mattis elit. Vestibulum consequat eu libero vestibulum sodales. In et ligula ut neque semper elementum. Vestibulum tempor luctus neque tempus posuere. Vestibulum tincidunt volutpat arcu, in placerat nibh ornare eget. Sed tempus ultrices nisl, in egestas lorem luctus eu. Vivamus aliquam mauris quis augue rhoncus iaculis. Aenean in justo viverra, lacinia turpis eget, laoreet purus. Praesent velit lacus, facilisis at tincidunt non, imperdiet ut diam. Aenean nec nisl eros. Mauris suscipit facilisis ante, in blandit elit pellentesque vitae. Sed neque enim, fermentum sed lorem at, gravida auctor purus. Ut id ipsum efficitur enim pharetra volutpat. Maecenas auctor porttitor lorem, at porta neque bibendum ut. Suspendisse rhoncus risus nec pellentesque porta. Proin sagittis, orci sed tristique auctor, ligula enim pulvinar neque, nec finibus odio orci vel est. Cras semper est vel scelerisque ultrices. Phasellus imperdiet eros nec est egestas, ornare pulvinar odio mattis. Aenean pharetra felis quis metus iaculis tempus sit amet id augue. Fusce sed erat at tellus malesuada posuere in et nisi. Vivamus augue lacus, consectetur rhoncus arcu ut, varius pellentesque eros. Sed et efficitur nulla. Phasellus nec mi non tortor faucibus consequat.",
+      "datePublished": "2016-05-20T17:57:28.556094Z",
+      "categoryID": "1"
+    },
+    {
+      "id": 4,
+      "title": "Facebook now lets you browse Live videos on a map",
+      "image": "images/FB.jpg",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac dapibus massa. Curabitur at pulvinar nisi. Duis aliquet condimentum lacus, nec molestie lacus luctus nec. Donec enim augue, mattis a enim quis, congue ornare arcu. Nullam nisl lectus, varius vel metus a, ultricies mattis elit. Vestibulum consequat eu libero vestibulum sodales. In et ligula ut neque semper elementum. Vestibulum tempor luctus neque tempus posuere. Vestibulum tincidunt volutpat arcu, in placerat nibh ornare eget. Sed tempus ultrices nisl, in egestas lorem luctus eu. Vivamus aliquam mauris quis augue rhoncus iaculis. Aenean in justo viverra, lacinia turpis eget, laoreet purus. Praesent velit lacus, facilisis at tincidunt non, imperdiet ut diam. Aenean nec nisl eros. Mauris suscipit facilisis ante, in blandit elit pellentesque vitae. Sed neque enim, fermentum sed lorem at, gravida auctor purus. Ut id ipsum efficitur enim pharetra volutpat. Maecenas auctor porttitor lorem, at porta neque bibendum ut. Suspendisse rhoncus risus nec pellentesque porta. Proin sagittis, orci sed tristique auctor, ligula enim pulvinar neque, nec finibus odio orci vel est. Cras semper est vel scelerisque ultrices. Phasellus imperdiet eros nec est egestas, ornare pulvinar odio mattis. Aenean pharetra felis quis metus iaculis tempus sit amet id augue. Fusce sed erat at tellus malesuada posuere in et nisi. Vivamus augue lacus, consectetur rhoncus arcu ut, varius pellentesque eros. Sed et efficitur nulla. Phasellus nec mi non tortor faucibus consequat.",
+      "datePublished": "2016-05-20T17:57:28.556094Z",
+      "categoryID": "3"
+    },
+    {
+      "id": 5,
+      "title": "You're not the only one: Facebook Pages is broken around the world",
+      "image": "images/FB-broken.jpg",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac dapibus massa. Curabitur at pulvinar nisi. Duis aliquet condimentum lacus, nec molestie lacus luctus nec. Donec enim augue, mattis a enim quis, congue ornare arcu. Nullam nisl lectus, varius vel metus a, ultricies mattis elit. Vestibulum consequat eu libero vestibulum sodales. In et ligula ut neque semper elementum. Vestibulum tempor luctus neque tempus posuere. Vestibulum tincidunt volutpat arcu, in placerat nibh ornare eget. Sed tempus ultrices nisl, in egestas lorem luctus eu. Vivamus aliquam mauris quis augue rhoncus iaculis. Aenean in justo viverra, lacinia turpis eget, laoreet purus. Praesent velit lacus, facilisis at tincidunt non, imperdiet ut diam. Aenean nec nisl eros. Mauris suscipit facilisis ante, in blandit elit pellentesque vitae. Sed neque enim, fermentum sed lorem at, gravida auctor purus. Ut id ipsum efficitur enim pharetra volutpat. Maecenas auctor porttitor lorem, at porta neque bibendum ut. Suspendisse rhoncus risus nec pellentesque porta. Proin sagittis, orci sed tristique auctor, ligula enim pulvinar neque, nec finibus odio orci vel est. Cras semper est vel scelerisque ultrices. Phasellus imperdiet eros nec est egestas, ornare pulvinar odio mattis. Aenean pharetra felis quis metus iaculis tempus sit amet id augue. Fusce sed erat at tellus malesuada posuere in et nisi. Vivamus augue lacus, consectetur rhoncus arcu ut, varius pellentesque eros. Sed et efficitur nulla. Phasellus nec mi non tortor faucibus consequat.",
+      "datePublished": "2016-05-20T17:57:28.556094Z",
+      "categoryID": "3"
+    },
+    {
+      "id": 6,
+      "title": "'The Nice Guys' would be great if it didn't try so hard to be clever",
+      "image": "images/nice-guys.png",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac dapibus massa. Curabitur at pulvinar nisi. Duis aliquet condimentum lacus, nec molestie lacus luctus nec. Donec enim augue, mattis a enim quis, congue ornare arcu. Nullam nisl lectus, varius vel metus a, ultricies mattis elit. Vestibulum consequat eu libero vestibulum sodales. In et ligula ut neque semper elementum. Vestibulum tempor luctus neque tempus posuere. Vestibulum tincidunt volutpat arcu, in placerat nibh ornare eget. Sed tempus ultrices nisl, in egestas lorem luctus eu. Vivamus aliquam mauris quis augue rhoncus iaculis. Aenean in justo viverra, lacinia turpis eget, laoreet purus. Praesent velit lacus, facilisis at tincidunt non, imperdiet ut diam. Aenean nec nisl eros. Mauris suscipit facilisis ante, in blandit elit pellentesque vitae. Sed neque enim, fermentum sed lorem at, gravida auctor purus. Ut id ipsum efficitur enim pharetra volutpat. Maecenas auctor porttitor lorem, at porta neque bibendum ut. Suspendisse rhoncus risus nec pellentesque porta. Proin sagittis, orci sed tristique auctor, ligula enim pulvinar neque, nec finibus odio orci vel est. Cras semper est vel scelerisque ultrices. Phasellus imperdiet eros nec est egestas, ornare pulvinar odio mattis. Aenean pharetra felis quis metus iaculis tempus sit amet id augue. Fusce sed erat at tellus malesuada posuere in et nisi. Vivamus augue lacus, consectetur rhoncus arcu ut, varius pellentesque eros. Sed et efficitur nulla. Phasellus nec mi non tortor faucibus consequat.",
+      "datePublished": "2016-05-20T17:57:28.556094Z",
+      "categoryID": "4"
+    },
+    {
+      "id": 7,
+      "title": "Daniel Craig is so over playing James Bond that he turned down $100 million",
+      "image": "images/bond.jpg",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac dapibus massa. Curabitur at pulvinar nisi. Duis aliquet condimentum lacus, nec molestie lacus luctus nec. Donec enim augue, mattis a enim quis, congue ornare arcu. Nullam nisl lectus, varius vel metus a, ultricies mattis elit. Vestibulum consequat eu libero vestibulum sodales. In et ligula ut neque semper elementum. Vestibulum tempor luctus neque tempus posuere. Vestibulum tincidunt volutpat arcu, in placerat nibh ornare eget. Sed tempus ultrices nisl, in egestas lorem luctus eu. Vivamus aliquam mauris quis augue rhoncus iaculis. Aenean in justo viverra, lacinia turpis eget, laoreet purus. Praesent velit lacus, facilisis at tincidunt non, imperdiet ut diam. Aenean nec nisl eros. Mauris suscipit facilisis ante, in blandit elit pellentesque vitae. Sed neque enim, fermentum sed lorem at, gravida auctor purus. Ut id ipsum efficitur enim pharetra volutpat. Maecenas auctor porttitor lorem, at porta neque bibendum ut. Suspendisse rhoncus risus nec pellentesque porta. Proin sagittis, orci sed tristique auctor, ligula enim pulvinar neque, nec finibus odio orci vel est. Cras semper est vel scelerisque ultrices. Phasellus imperdiet eros nec est egestas, ornare pulvinar odio mattis. Aenean pharetra felis quis metus iaculis tempus sit amet id augue. Fusce sed erat at tellus malesuada posuere in et nisi. Vivamus augue lacus, consectetur rhoncus arcu ut, varius pellentesque eros. Sed et efficitur nulla. Phasellus nec mi non tortor faucibus consequat.",
+      "datePublished": "2016-05-20T17:57:28.556094Z",
+      "categoryID": "4"
+    }
+  ],
+  "list-of-categories": [
+    {
+      "id": 1,
+      "name": "Technology"
+    },
+    {
+      "id": 2,
+      "name": "Business"
+    },
+    {
+      "id": 3,
+      "name": "Social media"
+    },
+    {
+      "id": 4,
+      "name": "Entertainment"
+    }
+  ]
+}
